@@ -1,8 +1,8 @@
 pipeline {
-    agent {
+    
        agent any
             
-        }
+      
     }
     environment {
         
